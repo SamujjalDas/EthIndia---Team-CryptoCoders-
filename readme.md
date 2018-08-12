@@ -86,6 +86,20 @@ The area of land is made equivalent to a Liquidity Token that is not related to 
 
 >Remix IDE
 
+## How to use
+
+> npm install -g
+
+> git clone https://github.com/SamujjalDas/EthIndia---Team-CryptoCoders-
+
+> cd EthIndia---Team-CryptoCoders--master
+
+> Run Ganache / ganache-cli
+
+> Deploy the smart contract in Remix IDE
+
+> Copy and place the ABI and address at required places 
+
 ## Team members 
 
 > 1.Samujjal Das
