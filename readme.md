@@ -7,24 +7,24 @@ The application is based on top of the Ethereum Blockchain.
 
 ## Objectives:
 
-> 1.Solves the problem of land ownership transparency.
-
-> 2.Preventing fraudulent selling/buying of land title ownership transfer.
-
-> 3.On the go selling and buying of land.
-
+* Solving the problem of land ownership transparency.
+------------ 
+* Preventing fraudulent selling/buying of land.
+------------ 
+* To provide on the go selling and buying of land.
+------------ 
 ## Token Information :
 
->Token name - LAND
+* Token name - LAND
 
->Token symbol - LND
+* Token symbol - LND
 
->Token type - Asset token(Here asset is land).
+* Token type - Asset token(Here asset is land).
 
->Tokens are distributed by the government at the time of registration based on the area of land owned by the owner. 
+* Tokens are distributed by the government at the time of registration based on the area of land owned by the owner. 
 1 square metre = 1 token.
 
->The contract considers a total of 1000 tokens which can only be bouught or transferred in exchange for ether.
+* The contract considers a total of 1000 tokens which can only be bouught or transferred in exchange for ether.
 
 
 ## Features:
@@ -76,34 +76,38 @@ The seller account also gets updated to the latest changes of his land.
 The area of land is made equivalent to a Liquidity Token that is not related to the outer market and can only be accessed for this purposre.
 
 ## Technologies Used:
->IPFS
+> IPFS
 
->npm
+> npm
 
->Infura
+> Infura
 
->Ganache-cli
+> Ganache-cli
 
->Remix IDE
+> Remix IDE
+
+> Google maps API
 
 ## How to use
 
-> npm install -g
 
-> git clone https://github.com/SamujjalDas/EthIndia---Team-CryptoCoders-
+> git clone https://github.com/hgayan7/EthIndia-Codebase
 
-> cd EthIndia---Team-CryptoCoders--master
-
-> Run Ganache / ganache-cli
+> Run Ganache GUI/ganache-cli
 
 > Deploy the smart contract in Remix IDE
 
 > Copy and place the ABI and address at required places 
 
+## Demo
+http://github.com - Demo
+[Youtube link](https://www.youtube.com/watch?v=5oc1Clsxxzw)
+
 ## Team members 
 
-> 1.Samujjal Das
-
-> 2.Himshikhar Gayan
-
-> 3.Pranjit Medhi
+* Samujjal Das
+------------ 
+* Himshikhar Gayan
+------------ 
+* Pranjit Medhi
+------------ 
