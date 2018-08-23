@@ -100,7 +100,7 @@ The area of land is made equivalent to a Liquidity Token that is not related to 
 > Copy and place the ABI and address at required places 
 
 ## Demo
-https://devfolio.co/submissions/land-network- Demo
+https://devfolio.co/submissions/land-network - Demo
 [Youtube link](https://www.youtube.com/watch?v=5oc1Clsxxzw)
 
 ## Team members 
